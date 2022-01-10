@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mateustv
-- 👀 I’m interested in js, nodejs, react
-- 🌱 I’m currently learning js, nodejs, react
+- 👋  Hi, I’m @Mateustv
+- 👀 I’m interested in js, nodejs, react, ts
+- 🌱 I’m currently learning js, nodejs, react and ts
 - 📫 How to reach me mateustavarestv@hotmail.com
 
 <!---
