@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @Mateustv
-- 👀 I’m interested in js, nodejs, react, ts
-- 🌱 I’m currently learning js, nodejs, react and ts
+- 👀 I’m interested in Software Engineer
+- 🌱 I’m currently learning java, ruby and c#
 - 📫 How to reach me mateustavarestv@hotmail.com
 
 <!---
